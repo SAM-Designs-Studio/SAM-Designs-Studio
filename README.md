@@ -37,7 +37,12 @@ I design and build fast, responsive, bilingual websites in Arabic and English fo
 | 🎨 | **[Nanova Paints](https://invisablesam-designs.github.io/nanova-paints/)** — nano-technology paint manufacturer *(concept project)* · [code](https://github.com/invisablesam-designs/nanova-paints) | Interactive color studio, paint quantity calculator, before/after slider, product catalogue, dealer finder, Arabic/English toggle |
 | 🏗️ | **[EQ Models Trading](https://www.eqmodelstrading.com)** — scale & architectural model company, Qatar *(live site)* | Company website built with Google Sites: project gallery of 14 landmark models, services, R/C section |
 
-<!-- Screenshots are added here once the sites are live -->
+<table>
+<tr>
+<td><a href="https://invisablesam-designs.github.io/volt-rc-store/"><img src="https://raw.githubusercontent.com/invisablesam-designs/volt-rc-store/main/screenshots/desktop.png" alt="VOLT RC" width="420"></a></td>
+<td><a href="https://invisablesam-designs.github.io/nanova-paints/"><img src="https://raw.githubusercontent.com/invisablesam-designs/nanova-paints/main/screenshots/desktop.png" alt="Nanova Paints" width="420"></a></td>
+</tr>
+</table>
 
 ### 📫 Work with me
 
