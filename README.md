@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Sam 👋
+# Hi, I'm Sam
 
 **Web Designer & Front-End Developer**
 
@@ -47,7 +47,7 @@ Available for freelance projects on **[Mostaql](https://mostaql.com)**.
 
 <div dir="rtl" align="right">
 
-## مرحبًا، أنا سام 👋
+## مرحبًا، أنا سام
 
 **مصمم ومطوّر واجهات مواقع**
 
