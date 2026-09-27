@@ -33,13 +33,13 @@ I design and build fast, responsive, bilingual websites in Arabic and English fo
 
 | | Project | What it shows |
 |---|---|---|
-| ⚡ | **[VOLT RC](https://sam-designs-studio.github.io/volt-rc-store/)** — RC hobby online store for the Egyptian market *(concept project)* · [code](https://github.com/SAM-Designs-Studio/volt-rc-store) | Full shop experience: filters, search, sorting, quick-view, slide-in cart with VAT & shipping, countdown deal, Arabic/English toggle |
+| 🏁 | **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — website for a real RC shop in Sheikh Zayed, Egypt *(live client site)* · [code](https://github.com/SAM-Designs-Studio/rc-world-egypt) | Bilingual shop site with the owner's real photos, catalogue with brand & scale filters, inquiry list that hands off to WhatsApp, photo gallery with lightbox |
 | 🎨 | **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — nano-technology paint manufacturer *(concept project)* · [code](https://github.com/SAM-Designs-Studio/nanova-paints) | Interactive color studio, paint quantity calculator, before/after slider, product catalogue, projects gallery, Arabic/English toggle |
 | 🏗️ | **[EQ Models Trading](https://www.eqmodelstrading.com)** — scale & architectural model company, Qatar *(live site)* | Company website built with Google Sites: project gallery of 14 landmark models, services, R/C section |
 
 <table>
 <tr>
-<td><a href="https://sam-designs-studio.github.io/volt-rc-store/"><img src="https://raw.githubusercontent.com/SAM-Designs-Studio/volt-rc-store/main/screenshots/desktop.png" alt="VOLT RC" width="420"></a></td>
+<td><a href="https://sam-designs-studio.github.io/rc-world-egypt/"><img src="https://raw.githubusercontent.com/SAM-Designs-Studio/rc-world-egypt/main/screenshots/desktop.png" alt="RC World Egypt" width="420"></a></td>
 <td><a href="https://sam-designs-studio.github.io/nanova-paints/"><img src="https://raw.githubusercontent.com/SAM-Designs-Studio/nanova-paints/main/screenshots/desktop.png" alt="Nanova Paints" width="420"></a></td>
 </tr>
 </table>
@@ -68,7 +68,7 @@ Available for freelance projects on **[Mostaql](https://mostaql.com)**.
 
 ### ⭐ أبرز الأعمال
 
-- ‏⚡ **[VOLT RC](https://sam-designs-studio.github.io/volt-rc-store/)** — متجر إلكتروني لهواة سيارات وطائرات التحكم عن بعد في مصر *(مشروع تصميمي تجريبي)*: فلترة وبحث وترتيب للمنتجات، وعرض سريع، وسلة تسوق جانبية مع حساب الشحن والضريبة، وعداد تنازلي للعروض، وتبديل بين العربية والإنجليزية.
+- ‏🏁 **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — موقع لمتجر حقيقي لسيارات وطائرات التحكم عن بعد في الشيخ زايد *(موقع منشور لعميل)*: صور حقيقية من المحل، وكتالوج بفلترة حسب الماركة والمقاس، وقائمة طلب تتحول إلى رسالة واتساب، ومعرض صور، وتبديل بين العربية والإنجليزية.
 - ‏🎨 **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — موقع لشركة دهانات بتقنية النانو *(مشروع تصميمي تجريبي)*: استوديو ألوان تفاعلي، وحاسبة لكمية الدهان، وشريط مقارنة قبل وبعد، وكتالوج منتجات، ومعرض مشاريع، وتبديل بين العربية والإنجليزية.
 - ‏🏗️ **[EQ Models Trading](https://www.eqmodelstrading.com)** — موقع شركة لصناعة المجسمات المعمارية والنماذج المصغّرة في قطر *(موقع منشور)*: معرض يضم أربعة عشر مشروعًا بارزًا، وصفحات الخدمات والتحكم عن بعد.
 
