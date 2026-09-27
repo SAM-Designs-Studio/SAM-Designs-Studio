@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Sam 👋 · ، أنا سام
+# Hi, I'm Sam ، أنا سام
 
 **Web Designer & Front-End Developer** · **مصمم ومطوّر واجهات مواقع**
 
