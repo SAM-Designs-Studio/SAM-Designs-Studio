@@ -31,8 +31,8 @@ I design and build fast, responsive, bilingual websites in Arabic and English fo
 
 ### ⭐ Featured work
 
-| | Project | What it shows |
-|---|---|---|
+| Project | What it shows |
+|---|---|
 | <img src="assets/rc-world-egypt.png" width="28" height="28" align="absmiddle" alt=""> **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — website for a real RC shop in Sheikh Zayed, Egypt *(live client site)* · [code](https://github.com/SAM-Designs-Studio/rc-world-egypt) | Bilingual shop site with the owner's real photos, catalogue with brand & scale filters, inquiry list that hands off to WhatsApp, photo gallery with lightbox |
 | <img src="assets/nanova-paints.png" width="28" height="28" align="absmiddle" alt=""> **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — nano-technology paint manufacturer *(concept project)* · [code](https://github.com/SAM-Designs-Studio/nanova-paints) | Interactive color studio, paint quantity calculator, before/after slider, product catalogue, projects gallery, Arabic/English toggle |
 | <img src="assets/eq-models-trading.png" width="28" height="28" align="absmiddle" alt=""> **[EQ Models Trading](https://www.eqmodelstrading.com)** — scale & architectural model company, Qatar *(live site)* | Company website built with Google Sites: project gallery of 14 landmark models, services, R/C section |
