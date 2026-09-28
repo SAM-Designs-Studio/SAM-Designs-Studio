@@ -33,9 +33,9 @@ I design and build fast, responsive, bilingual websites in Arabic and English fo
 
 | | Project | What it shows |
 |---|---|---|
-| <img src="assets/rc-world-egypt.png" width="22" height="22" alt=""> | **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — website for a real RC shop in Sheikh Zayed, Egypt *(live client site)* · [code](https://github.com/SAM-Designs-Studio/rc-world-egypt) | Bilingual shop site with the owner's real photos, catalogue with brand & scale filters, inquiry list that hands off to WhatsApp, photo gallery with lightbox |
-| <img src="assets/nanova-paints.png" width="22" height="22" alt=""> | **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — nano-technology paint manufacturer *(concept project)* · [code](https://github.com/SAM-Designs-Studio/nanova-paints) | Interactive color studio, paint quantity calculator, before/after slider, product catalogue, projects gallery, Arabic/English toggle |
-| <img src="assets/eq-models-trading.png" width="22" height="22" alt=""> | **[EQ Models Trading](https://www.eqmodelstrading.com)** — scale & architectural model company, Qatar *(live site)* | Company website built with Google Sites: project gallery of 14 landmark models, services, R/C section |
+| <img src="assets/rc-world-egypt.png" width="28" height="28" align="absmiddle" alt=""> **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — website for a real RC shop in Sheikh Zayed, Egypt *(live client site)* · [code](https://github.com/SAM-Designs-Studio/rc-world-egypt) | Bilingual shop site with the owner's real photos, catalogue with brand & scale filters, inquiry list that hands off to WhatsApp, photo gallery with lightbox |
+| <img src="assets/nanova-paints.png" width="28" height="28" align="absmiddle" alt=""> **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — nano-technology paint manufacturer *(concept project)* · [code](https://github.com/SAM-Designs-Studio/nanova-paints) | Interactive color studio, paint quantity calculator, before/after slider, product catalogue, projects gallery, Arabic/English toggle |
+| <img src="assets/eq-models-trading.png" width="28" height="28" align="absmiddle" alt=""> **[EQ Models Trading](https://www.eqmodelstrading.com)** — scale & architectural model company, Qatar *(live site)* | Company website built with Google Sites: project gallery of 14 landmark models, services, R/C section |
 
 <table>
 <tr>
@@ -68,9 +68,9 @@ Available for freelance projects on **[Mostaql](https://mostaql.com)**.
 
 ### ⭐ أبرز الأعمال
 
-- ‏<img src="assets/rc-world-egypt.png" width="22" height="22" alt=""> **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — موقع لمتجر حقيقي لسيارات وطائرات التحكم عن بعد في الشيخ زايد *(موقع منشور لعميل)*: صور حقيقية من المحل، وكتالوج بفلترة حسب الماركة والمقاس، وقائمة طلب تتحول إلى رسالة واتساب، ومعرض صور، وتبديل بين العربية والإنجليزية.
-- ‏<img src="assets/nanova-paints.png" width="22" height="22" alt=""> **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — موقع لشركة دهانات بتقنية النانو *(مشروع تصميمي تجريبي)*: استوديو ألوان تفاعلي، وحاسبة لكمية الدهان، وشريط مقارنة قبل وبعد، وكتالوج منتجات، ومعرض مشاريع، وتبديل بين العربية والإنجليزية.
-- ‏<img src="assets/eq-models-trading.png" width="22" height="22" alt=""> **[EQ Models Trading](https://www.eqmodelstrading.com)** — موقع شركة لصناعة المجسمات المعمارية والنماذج المصغّرة في قطر *(موقع منشور)*: معرض يضم أربعة عشر مشروعًا بارزًا، وصفحات الخدمات والتحكم عن بعد.
+- ‏<img src="assets/rc-world-egypt.png" width="24" height="24" align="absmiddle" alt=""> **[RC World Egypt](https://sam-designs-studio.github.io/rc-world-egypt/)** — موقع لمتجر حقيقي لسيارات وطائرات التحكم عن بعد في الشيخ زايد *(موقع منشور لعميل)*: صور حقيقية من المحل، وكتالوج بفلترة حسب الماركة والمقاس، وقائمة طلب تتحول إلى رسالة واتساب، ومعرض صور، وتبديل بين العربية والإنجليزية.
+- ‏<img src="assets/nanova-paints.png" width="24" height="24" align="absmiddle" alt=""> **[Nanova Paints](https://sam-designs-studio.github.io/nanova-paints/)** — موقع لشركة دهانات بتقنية النانو *(مشروع تصميمي تجريبي)*: استوديو ألوان تفاعلي، وحاسبة لكمية الدهان، وشريط مقارنة قبل وبعد، وكتالوج منتجات، ومعرض مشاريع، وتبديل بين العربية والإنجليزية.
+- ‏<img src="assets/eq-models-trading.png" width="24" height="24" align="absmiddle" alt=""> **[EQ Models Trading](https://www.eqmodelstrading.com)** — موقع شركة لصناعة المجسمات المعمارية والنماذج المصغّرة في قطر *(موقع منشور)*: معرض يضم أربعة عشر مشروعًا بارزًا، وصفحات الخدمات والتحكم عن بعد.
 
 ### 📫 تواصل معي
 
